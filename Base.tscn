@@ -1,0 +1,20 @@
+[gd_scene load_steps=4 format=2]
+
+[ext_resource path="res://test.gd" type="Script" id=1]
+
+[sub_resource type="Gradient" id=1]
+offsets = PoolRealArray( 0, 0.989529, 0.994764, 1 )
+colors = PoolColorArray( 0, 0, 0, 1, 0.790576, 0.790576, 0.790576, 1, 0.837696, 0.837696, 0.837696, 1, 1, 1, 1, 1 )
+
+[sub_resource type="GradientTexture" id=2]
+gradient = SubResource( 1 )
+width = 1
+
+[node name="Base" type="Node2D"]
+position = Vector2( 195, 143 )
+
+[node name="Sprite" type="Sprite" parent="."]
+position = Vector2( 120, 117 )
+scale = Vector2( 200, 200 )
+texture = SubResource( 2 )
+script = ExtResource( 1 )
