@@ -1,0 +1,17 @@
+[remap]
+
+importer="aseprite_wizard.plugin"
+type="SpriteFrames"
+path="res://.import/Duck_Animations.aseprite-fcfe9d9541acd030efc244e1da257149.res"
+
+[deps]
+
+source_file="res://sprites/Duck_Animations.aseprite"
+dest_files=[ "res://.import/Duck_Animations.aseprite-fcfe9d9541acd030efc244e1da257149.res" ]
+
+[params]
+
+split_layers=false
+exclude_layers_pattern=""
+only_visible_layers=false
+sheet_type="Packed"

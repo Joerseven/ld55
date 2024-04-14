@@ -1,0 +1,17 @@
+[remap]
+
+importer="aseprite_wizard.plugin"
+type="SpriteFrames"
+path="res://.import/Frog_Animation.aseprite-4d200aec73451669ba6f7376d0dafde1.res"
+
+[deps]
+
+source_file="res://sprites/Frog_Animation.aseprite"
+dest_files=[ "res://.import/Frog_Animation.aseprite-4d200aec73451669ba6f7376d0dafde1.res" ]
+
+[params]
+
+split_layers=false
+exclude_layers_pattern=""
+only_visible_layers=false
+sheet_type="Packed"
