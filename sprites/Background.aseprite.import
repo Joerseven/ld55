@@ -1,0 +1,17 @@
+[remap]
+
+importer="aseprite_wizard.plugin"
+type="SpriteFrames"
+path="res://.import/Background.aseprite-f851b5edc753255bd44f022eb4fb33d3.res"
+
+[deps]
+
+source_file="res://sprites/Background.aseprite"
+dest_files=[ "res://.import/Background.aseprite-f851b5edc753255bd44f022eb4fb33d3.res" ]
+
+[params]
+
+split_layers=false
+exclude_layers_pattern=""
+only_visible_layers=true
+sheet_type="Packed"

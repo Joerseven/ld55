@@ -1,0 +1,17 @@
+[remap]
+
+importer="aseprite_wizard.plugin"
+type="SpriteFrames"
+path="res://.import/Tree1.aseprite-76d02841792474259f9b72887661b687.res"
+
+[deps]
+
+source_file="res://sprites/Tree1.aseprite"
+dest_files=[ "res://.import/Tree1.aseprite-76d02841792474259f9b72887661b687.res" ]
+
+[params]
+
+split_layers=false
+exclude_layers_pattern=""
+only_visible_layers=false
+sheet_type="Packed"

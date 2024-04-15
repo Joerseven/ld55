@@ -1,0 +1,17 @@
+[remap]
+
+importer="aseprite_wizard.plugin"
+type="SpriteFrames"
+path="res://.import/Stick2.aseprite-c801618d054ce4e72261317d72dfd86b.res"
+
+[deps]
+
+source_file="res://sprites/Stick2.aseprite"
+dest_files=[ "res://.import/Stick2.aseprite-c801618d054ce4e72261317d72dfd86b.res" ]
+
+[params]
+
+split_layers=false
+exclude_layers_pattern=""
+only_visible_layers=false
+sheet_type="Packed"

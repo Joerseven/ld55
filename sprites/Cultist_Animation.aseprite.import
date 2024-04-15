@@ -1,0 +1,17 @@
+[remap]
+
+importer="aseprite_wizard.plugin"
+type="SpriteFrames"
+path="res://.import/Cultist_Animation.aseprite-46c1e7c0f254036aef2a9679163a8b7d.res"
+
+[deps]
+
+source_file="res://sprites/Cultist_Animation.aseprite"
+dest_files=[ "res://.import/Cultist_Animation.aseprite-46c1e7c0f254036aef2a9679163a8b7d.res" ]
+
+[params]
+
+split_layers=false
+exclude_layers_pattern=""
+only_visible_layers=false
+sheet_type="Packed"

@@ -1,0 +1,17 @@
+[remap]
+
+importer="aseprite_wizard.plugin"
+type="SpriteFrames"
+path="res://.import/Bush2.aseprite-1adf019cf187d7605f38d847f22f69a5.res"
+
+[deps]
+
+source_file="res://sprites/Bush2.aseprite"
+dest_files=[ "res://.import/Bush2.aseprite-1adf019cf187d7605f38d847f22f69a5.res" ]
+
+[params]
+
+split_layers=false
+exclude_layers_pattern=""
+only_visible_layers=false
+sheet_type="Packed"
